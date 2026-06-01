@@ -1,4 +1,4 @@
-# Realtime ASD
+# Realtime ASD 
 
 Realtime ASD is an experimental active speaker detection runtime for robotics,
 meeting, and multimodal video pipelines. It combines face detection, short
