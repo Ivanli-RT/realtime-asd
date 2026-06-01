@@ -1,0 +1,13 @@
+numpy<2
+scipy
+pandas
+tqdm
+PyYAML
+typing-extensions>=4.8.0
+sympy
+matplotlib
+seaborn
+py-cpuinfo
+
+# The torch stack is installed separately so Jetson builds do not pull
+# incompatible PyPI wheels over NVIDIA's torch packages.
